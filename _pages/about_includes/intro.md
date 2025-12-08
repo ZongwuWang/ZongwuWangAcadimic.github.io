@@ -1,0 +1,3 @@
+I graduated in June 2025 from the Advanced Computer Architecture Laboratory at the School of Computer Science and Engineering, Shanghai Jiao Tong University. I am currently a postdoctoral researcher jointly affiliated with the Institute of Scalable Computing at Shanghai Jiao Tong University and the Shanghai Qi Zhi Institute, under the joint supervision of Prof. Jiang Li from Shanghai Jiao Tong University and Associate Prof. Gao Mingyu from Tsinghua University.
+
+My research interests lie in traditional computer architecture design, neuromorphic computing, and AI accelerator architecture and system design.
